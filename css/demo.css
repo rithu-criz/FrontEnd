@@ -1,8 +1,5 @@
-#rithu{
+*{
     background-color: blue;
-    border: 2px solid black;
-}
-#sena{
-    background-color: blueviolet;
     border: 1px solid black;
+    font-size: 30px;
 }
