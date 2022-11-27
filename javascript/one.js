@@ -1,9 +1,9 @@
-let price = 14999;
-let rating = 4.9;
-let name = "Iphone 5s";
-let avail = 'Y'
-let discount = true
-let availability;
+let price =14000;
+let rating= 4.9;
+let name = "iphone 5s";
+let avail='y' 
+let discount=true;
+let availbility;
 
 console.log(price)
 console.log(typeof price)
@@ -11,4 +11,4 @@ console.log(typeof rating)
 console.log(typeof name)
 console.log(typeof avail)
 console.log(typeof discount)
-console.log(typeof availability)
+console.log(typeof availbility)
