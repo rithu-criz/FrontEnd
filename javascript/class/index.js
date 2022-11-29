@@ -2,7 +2,7 @@ let name="rithu"
 console.log(name);
 
 let firstName="shrinivas"
-let lastName="sneha"
+//let lastName="sneha"
 
 console.log(firstName);
 console.log(lastName)
